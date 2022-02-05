@@ -19,7 +19,8 @@ function Body() {
             <h1>{number}</h1>
             <button onClick={() => setNumber('up')}>Up</button>
             <button onClick={() => setNumber('down')}>Down</button>
-            <button onClick={() => setNumber('down')}>Down333333333333</button>
+            <button onClick={() => setNumber('down')}>fsdfds</button>
+            <button onClick={() => setNumber('down')}>Down4444444444444444444444444</button>
         </div>
     )
 }
